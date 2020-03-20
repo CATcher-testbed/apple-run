@@ -1,0 +1,7 @@
+{
+  "openPhases" : ["phaseBugReporting", "phaseTeamResponse"],
+  "phaseBugReporting": "apple-run",
+  "phaseTeamResponse": "apple-run-dev-response",
+  "phaseTesterResponse": "apple-run",
+  "phaseModeration": "apple-run-tutor-moderation"
+}
