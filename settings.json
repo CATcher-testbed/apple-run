@@ -1,5 +1,5 @@
 {
-  "openPhases" : ["phaseTeamResponse"],
+  "openPhases" : ["phaseTeamResponse", "phaseTesterResponse"],
   "phaseBugReporting": "apple-run",
   "phaseTeamResponse": "apple-run-dev-response",
   "phaseTesterResponse": "apple-run",
